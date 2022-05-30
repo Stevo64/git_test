@@ -1,0 +1,9 @@
+github
+first go
+lets learn  command 'code' from snap code (c3511e6c)
+
+See 'snap info <snapname>' for additional versions.
+
+steven@steven-HP-Pavilion-Laptop-14-ce0xxx:~/Desktop/repos/git_test$ code ,
+steven@steven-HP-Pavilion-Laptop-14-ce0xxx:~/Desktop/repos/git_test$ c
+
